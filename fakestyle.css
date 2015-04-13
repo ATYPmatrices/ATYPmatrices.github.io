@@ -1,0 +1,170 @@
+
+
+#home {
+	text-decoration:none;
+	float:left;
+	margin-left: 33%;
+	background-color: #F38630; 
+	color: #003D7A;
+	border-radius: 10px;
+	
+}
+
+#homeclick {
+	background-color: #F38630; 
+	text-decoration: none;
+	color: #003D7A;
+	
+}
+
+#moreclick {
+	background-color: #F38630; 
+	text-decoration: none;
+	color: #003D7A;
+}
+
+#search {
+	float: right;
+	margin-right: 33%;
+	background-color: #F38630;
+	color: #003D7A;
+	
+}
+
+.buttons {
+	clear: right;
+}
+
+.nav {
+	height: 5em;
+	border: 4px solid #69D2E7;
+	background-color: #F38630;
+	border-radius: 2em;
+	font-family: Arial, Serif;
+	text-decoration: none;
+	margin-bottom: 100px;
+	
+}
+
+* {
+	background-color: #A7DBD8;
+	font-family: Arial, Serif;
+	text-decoration: none;
+}
+ 
+ .buttons {
+	background-color: #E0E4CC;
+	border-radius: 1em;
+	padding: 1em;
+	margin-top: 1em;
+ }
+ 
+ #transformations {
+	margin-bottom: 30px;
+	
+ }
+ 
+ #photo {
+	width: 40em;
+	margin-bottom: 30px;
+	border: 1em dashed #69D2E7;
+	display: block;
+	margin-left: 18%;
+	margin-right: auto;
+	margin-top: 100px;
+ }
+ 
+ 
+
+#transfromations {
+	margin-right: 100px;
+}
+
+
+
+
+
+
+
+
+
+#determinant, #systems, #identity, #transformations, #inverse {
+	border: .1em dashed #69D2E7;
+	display: inline;
+	margin-bottom: 100px;
+	margin-top: 100px;
+	text-align: center;
+	
+}
+
+
+
+
+
+
+
+
+#table {
+	text-align:center;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+#contactbutton {
+	text-decoration: none;
+	color:#003D7A;
+}
+
+
+#buttonlinks {
+	text-decoration: none;
+	background-color: #E0E4CC;
+	color: #003D7A;
+}
+
+#learnhead {
+	background-color: #E0E4CC;
+	color: #003D7A;
+	text-align: center;
+}
+
+
+#khan {
+	background-color: #E0E4CC;
+	display:block;
+	margin-bottom: 2em;
+	font-size: 1.5em;
+	text-decoration: none;
+	color: #003D7A;
+}
+
+ul {
+	background-color: #E0E4CC;
+}
+
+
+#headtext {
+	background-color: #E0E4CC;
+	text-align: center;
+	font-size: 1.7em;
+	color: #003D7A;
+}
+
+
+#bg {
+	background-color: #E0E4CC;
+}
+
+#transformpic1 {
+	width: 600px;
+	margin-left: 30%;
+	display: block;
+}
+
+ 
+
+ 
+ 
+ 
+ 
